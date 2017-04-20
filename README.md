@@ -8,7 +8,7 @@ Set up Environment
 Run demo
 
 - cd react-redux-youtube
-- npm composer update
+- npm install
 - npm start
 
 ##
